@@ -1,0 +1,6 @@
+{
+  "name": "Omolara Care Center",
+  "description": "Complete Hospital Management System for Omolara Care Center featuring 24/7 emergency care, patient portal, doctor management, appointment scheduling, medical records, billing & prescriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
